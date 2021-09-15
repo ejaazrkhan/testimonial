@@ -1,2 +1,0 @@
-# testimonial
-Collection of Testimonials

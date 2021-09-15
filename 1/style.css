@@ -50,18 +50,10 @@
       padding: 0 2rem 2rem 2rem !important;
     }
 }
-.testimonial-section .main-title {
-    color: #000000;
-}
-.testimonial-section .user_text I {
-    color: #000000;
-}
-.testimonial-section .user_name {
-    color: #000000;
-}
-.testimonial-section .user_desk {
-    color: #000000;
-}
+.testimonial-section .main-title, 
+.testimonial-section .user_text I, 
+.testimonial-section .user_name, 
+.testimonial-section .user_desk
 .testimonial-section .user_text {
     color: #000000;
 }

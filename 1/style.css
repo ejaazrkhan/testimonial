@@ -1,5 +1,5 @@
 .testimonial-section{
-    background-image: url(bg.jpg), linear-gradient(rgb(255 253 253 / 90%),rgb(253 253 253 / 50%));
+    background-image: url(images/bg.jpg), linear-gradient(rgb(255 253 253 / 90%),rgb(253 253 253 / 50%));
     background-blend-mode: overlay;
 }
 .testimonial-section h2,
